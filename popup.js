@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (!websites.includes(website)) {
                     websites.push(website);
                     chrome.storage.sync.set({ websites }, updateWebsitesList);
+                    websiteInput.value = '';
                 }
             });
         }
