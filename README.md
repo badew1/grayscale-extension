@@ -1,4 +1,4 @@
-# Black and White Mode Chrome Extension
+# [Black and White Mode Chrome Extension](https://chromewebstore.google.com/detail/grayscale-focus-enhance-y/cmpnnbccbeohdicpbmhgbclkckepdckc)
 
 ## Overview
 The **Black and White Mode** Chrome extension allows users to apply a grayscale filter to specified websites. This extension is useful for reducing the visual appeal of certain websites, potentially aiding in reducing time spent on them.
